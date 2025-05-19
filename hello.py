@@ -12,7 +12,7 @@ print("Hello,",end=" ")
 print(Name)
 print("Hello,",Name,sep=" ")
 I can also use '+' to add more strings"""
-print("Ami test korchi")
+
 
 
 
